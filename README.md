@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Milad Rasouli
-- 👀 I’m interested in chess, studying and hiking
-- 🌱 I’m currently learning unreal engin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Milad Rasouli
+- 👀 I’m interested in C\C++, studying, and chess.
+- 🌱 I’m currently learning unreal engine
+- ✨I’m looking for a remote job.
+- 📫 How to reach me milad75rasouli@gmail.com
 
 <!---
 Milad75Rasouli/Milad75Rasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
