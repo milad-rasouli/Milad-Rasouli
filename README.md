@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milad Rasouli
-- 👀 I’m interested in C\C++, studying, swimming and chess.
-- 🌱 I’m currently learning unreal engine.
+- 👀 I’m interested in codeing in C, C++, Python.
+- 🌱 I’m currently ract, django.
 - ✨I’m looking for a remote job.
 - 📫 How to reach me milad75rasouli@gmail.com
 
