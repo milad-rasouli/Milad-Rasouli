@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Milad Rasouli
-- 👀 I’m interested in codeing in C, C++, Python.
-- 🌱 I’m currently React, Django.
-- ✨I’m looking for a remote job.
-- 📫 How to reach me milad75rasouli@gmail.com
+- 📫 You can reach me at milad75rasouli@gmail.com
 
 <!---
 Milad75Rasouli/Milad75Rasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
