@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Milad Rasouli
-- 📫 You can reach me at milad75rasouli@gmail.com
-
-
 ### Contribution Chart
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad75Rasouli/Milad75Rasouli/output/github-snake-dark.svg" />
