@@ -1,4 +1,8 @@
-### Contribution Chart
+
+## Hi people,
+I'm Milad Rasouli. I work as a software engineer.
+
+### Funny Contribution Chart
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad75Rasouli/Milad75Rasouli/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Milad75Rasouli/Milad75Rasouli/output/github-snake.svg" />
