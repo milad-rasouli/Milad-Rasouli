@@ -1,6 +1,9 @@
+<p align="center">
+  <a href="https://leetcode.com/milad75rasouli/">
+    <img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
 
-## Hi people,
-I'm Milad Rasouli. I work as a software engineer.
 
 ### Funny Contribution Chart
 <picture>
