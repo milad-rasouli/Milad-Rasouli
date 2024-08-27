@@ -9,12 +9,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-007ACC?style=for-the-badge&logo=c&logoColor=white" alt="Embedded Systems Badge" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices Badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-3A3A3A?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Badge" />
 </p>
 
-I'm a dedicated **Software Engineer** with a passion for **Golang** and a strong background in **embedded systems**, **microservices**, and **software development**. My journey has taken me through various roles, where I've honed my skills in programming, debugging, and system optimization.
+I'm a dedicated **Software Engineer** with a passion for **Golang** and a strong background in **microservices** and **software development**. My journey has taken me through various roles, where I've honed my skills in programming, debugging, and system optimization.
 
 ---
 
