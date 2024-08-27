@@ -5,15 +5,17 @@
 
 ---
 
-<h1 align="center">👋 <span style="display: inline-block; transform: rotate(10deg);">Hi there, I'm Milad Rasouli!</span> 👋</h1>
+<h1 align="center">👋 Hi there, I'm Milad Rasouli!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices Badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-3A3A3A?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
 </p>
 
-I'm a dedicated **Software Engineer** with a passion for **Golang** and a strong background in **microservices** and **software development**. My journey has taken me through various roles, where I've honed my skills in programming, debugging, and system optimization.
+I’m a **Software Engineer** specializing in **Golang** and **microservices**. My expertise includes developing scalable applications, building CI/CD pipelines, and leveraging modern containerization technologies. My recent work focuses on creating efficient, high-performance systems and contributing to open-source projects.
 
 ---
 
@@ -62,10 +64,9 @@ I'm a dedicated **Software Engineer** with a passion for **Golang** and a strong
   <img alt="GitHub Snake Contribution" src="github-snake.svg" />
 </picture>
 
-
 ---
 
-I'm always excited to connect with fellow developers, contribute to open-source projects, and explore innovative ideas. Feel free to browse my repositories or get in touch!
+Feel free to explore my repositories, connect with me, and reach out if you have any questions or exciting opportunities to discuss!
 
 <!---
 Milad75Rasouli/Milad75Rasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
