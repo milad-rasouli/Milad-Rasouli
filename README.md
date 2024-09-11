@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://flowcv.com/resume/utca234ak1"><img alt="Resume" src="https://img.shields.io/badge/Resume-View%20on%20FlowCV-blue?style=for-the-badge&logo=flowcv&logoColor=white" /></a>
-  <a href="https://leetcode.com/milad75rasouli/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://leetcode.com/Milad-Rasouli/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 ---
@@ -23,21 +23,21 @@ I’m a **Software Engineer** specializing in **Golang** and **microservices**. 
 
 - 🔗 **Portfolio**: [Explore my work](https://miladrasouli.darkube.app/)
 - 💼 **Resume**: [View on FlowCV](https://flowcv.com/resume/utca234ak1)
-- 💡 **LeetCode**: [Challenge me on LeetCode](https://leetcode.com/milad75rasouli/)
+- 💡 **LeetCode**: [Challenge me on LeetCode](https://leetcode.com/Milad-Rasouli/)
 
 ---
 
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/Milad75Rasouli/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad75Rasouli&repo=Portfolio&theme=dark" alt="Portfolio Repo" />
+  <a href="https://github.com/Milad-Rasouli/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Rasouli&repo=Portfolio&theme=dark" alt="Portfolio Repo" />
   </a>
-  <a href="https://github.com/Milad75Rasouli/online-video-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad75Rasouli&repo=online-video-player&theme=dark" alt="Online Video Player Repo" />
+  <a href="https://github.com/Milad-Rasouli/online-video-player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Rasouli&repo=online-video-player&theme=dark" alt="Online Video Player Repo" />
   </a>
-  <a href="https://github.com/Milad75Rasouli/Ticket-Notifier-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad75Rasouli&repo=Ticket-Notifier-Bot&theme=dark" alt="Ticket Notifier Bot Repo" />
+  <a href="https://github.com/Milad-Rasouli/Ticket-Notifier-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Rasouli&repo=Ticket-Notifier-Bot&theme=dark" alt="Ticket Notifier Bot Repo" />
   </a>
 </p>
 
@@ -59,8 +59,8 @@ I’m a **Software Engineer** specializing in **Golang** and **microservices**. 
 ### 🎉 Fun Contribution Chart
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad75Rasouli/Milad75Rasouli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Milad75Rasouli/Milad75Rasouli/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Milad-Rasouli/Milad-Rasouli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Milad-Rasouli/Milad-Rasouli/output/github-snake.svg" />
   <img alt="GitHub Snake Contribution" src="github-snake.svg" />
 </picture>
 
@@ -69,6 +69,6 @@ I’m a **Software Engineer** specializing in **Golang** and **microservices**. 
 Feel free to explore my repositories, connect with me, and reach out if you have any questions or exciting opportunities to discuss!
 
 <!---
-Milad75Rasouli/Milad75Rasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Milad-Rasouli/Milad-Rasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
