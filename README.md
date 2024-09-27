@@ -6,7 +6,7 @@
 ---
 
 <h1 align="center">👋 Hi there, I'm Milad Rasouli!</h1>
-
+<!---
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices Badge" />
@@ -16,7 +16,7 @@
 </p>
 
 I’m a **Software Engineer** specializing in **Golang** and **microservices**. My expertise includes developing scalable applications, building CI/CD pipelines, and leveraging modern containerization technologies. My recent work focuses on creating efficient, high-performance systems and contributing to open-source projects.
-
+-->
 ---
 
 ### 🌟 Highlights
@@ -26,7 +26,7 @@ I’m a **Software Engineer** specializing in **Golang** and **microservices**. 
 - 💡 **LeetCode**: [Challenge me on LeetCode](https://leetcode.com/Milad-Rasouli/)
 
 ---
-
+<!---
 ### 📌 Pinned Repositories
 
 <p align="center">
@@ -55,7 +55,7 @@ I’m a **Software Engineer** specializing in **Golang** and **microservices**. 
 </p>
 
 ---
-
+-->
 ### 🎉 Fun Contribution Chart
 
 <picture>
