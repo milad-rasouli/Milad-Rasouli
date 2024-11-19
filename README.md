@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://flowcv.com/resume/utca234ak1"><img alt="Resume" src="https://img.shields.io/badge/Resume-View%20on%20FlowCV-blue?style=for-the-badge&logo=flowcv&logoColor=white" /></a>
   <a href="https://leetcode.com/Milad-Rasouli/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="mailto:milad.rasouli.io"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </p>
 
 ---
